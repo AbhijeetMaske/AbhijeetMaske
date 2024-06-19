@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhijeet Maske</h1>
 <h3 align="center">A passionate Quality Analyst from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://github.com/AbhijeetMaske/AbhijeetMaske/blob/a57d6911ece773286bab3a1eb9da9dbe66b505fc/images/coding_qa.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhijeetmaske&label=Profile%20views&color=0e75b6&style=flat" alt="abhijeetmaske" /> </p>
 
 - 🔭 I’m currently working on [SeleniumFramework](https://github.com/AbhijeetMaske/seleniumFramework)

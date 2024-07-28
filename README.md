@@ -23,9 +23,9 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/abhijeetmaske"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/abhijeetmaske" /></a></p><br><br>
 
-[![Abhijeet's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=AbhijeetMaske&&theme=xcode)](https://github.com/AbhijeetMaske)
+<!--[![Abhijeet's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=AbhijeetMaske&&theme=xcode)](https://github.com/AbhijeetMaske)
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhijeetmaske&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="abhijeetmaske" /></p>
-
+-->
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhijeetmaske&show_icons=true&locale=en&theme=tokyonight" alt="abhijeetmaske" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhijeetmaske&theme=tokyonight" alt="abhijeetmaske" /></p>

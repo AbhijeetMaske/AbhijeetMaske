@@ -69,5 +69,6 @@ Technical Product Owner with over 9 years of expertise in the software industry,
 ### 🤝 Connect With Me
 <p align="left">
   <a href="mailto:abhijeet.maske@yahoo.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="www.linkedin.com/in/abhijeet-r-maske"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/abhijeet-r-maske" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>

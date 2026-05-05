@@ -1,79 +1,73 @@
 <h1 align="center">Hi 👋, I'm Abhijeet Maske</h1>
-<h3 align="center">A passionate Quality Analyst from India</h3>
+<h3 align="center">Technical Product Owner | Architecting Scalable Product Solutions</h3>
 
-<!-- Right-aligned image for coding illustration -->
-<img align="right" alt="Coding" width="200" height="250" src="https://github.com/AbhijeetMaske/AbhijeetMaske/blob/a57d6911ece773286bab3a1eb9da9dbe66b505fc/images/coding_qa.gif">
-
-<!-- Profile views badge -->
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=abhijeetmaske&label=Profile%20views&color=0e75b6&style=flat" alt="abhijeetmaske" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abhijeetmaske&label=Profile%20views&color=0e75b6&style=flat-square" alt="abhijeetmaske" />
+  <img src="https://img.shields.io/badge/Experience-9%2B%20Years-blue?style=flat-square" alt="Experience" />
+  <img src="https://img.shields.io/badge/Focus-System%20Architecture%20%26%20Strategy-green?style=flat-square" alt="Focus" />
 </p>
 
-<!-- Current projects and contact information -->
-<ul>
-  <li>🔭 I’m currently working on <a href="https://github.com/AbhijeetMaske/seleniumFramework">SeleniumFramework</a></li>
-  <li>🌱 I’m currently learning <strong>JavaScript</strong></li>
-  <li>💬 Ask me about <strong>selenium</strong></li>
-  <li>📫 How to reach me: <a href="mailto:abhijeet.maske@yahoo.com">abhijeet.maske@yahoo.com</a></li>
-  <li>⚡ Fun fact: <em>--</em></li>
-</ul>
+---
 
-<!-- GitHub profile trophies -->
+### 📑 Professional Summary
+Technical Product Owner with over 9 years of expertise in the software industry, specializing in the intersection of **product strategy and system architecture**. I excel at decomposing complex technical challenges into executable engineering roadmaps, ensuring alignment between business objectives and technical feasibility.
+
+*   **Engineering Strategy:** Expert in defining technical specifications, managing architectural debt, and optimizing the SDLC for high-velocity delivery.
+*   **Technical Liaison:** Bridging the gap between stakeholders and engineering teams by translating high-level vision into detailed technical requirements and API specifications.
+*   **Systems Thinking:** Deep understanding of microservices, web technologies, and scalable infrastructure to drive product market fit through technical excellence.
+
+---
+
+### 🛠️ Technical Product Leadership Toolkit
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>📦 Product Operations</h4>
+      <ul>
+        <li>Technical Roadmap Ownership</li>
+        <li>User Story Mapping & Gherkin Specs</li>
+        <li>Agile Transformation & Scrum Leadership</li>
+        <li>Backlog Refinement & Prioritization</li>
+        <li>Cross-functional Stakeholder Management</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>💻 Engineering Domain</h4>
+      <ul>
+        <li><strong>Development:</strong> Java, JavaScript (ES6+), HTML5, CSS3, Sass</li>
+        <li><strong>Architecture:</strong> Microservices, RESTful APIs, System Design</li>
+        <li><strong>DevOps/Tools:</strong> CI/CD Integration, Git, Postman, JIRA</li>
+        <li><strong>Performance:</strong> Scalability Analysis & Framework Optimization</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🔭 Strategic Focus
+*   🚀 **Architecting:** [SeleniumFramework](https://github.com/AbhijeetMaske/seleniumFramework) — Developing modular, scalable frameworks to streamline the software delivery lifecycle.
+*   🌱 **Mastering:** Advanced **JavaScript** architectures to better inform technical decision-making for modern web products.
+*   💬 **Expertise In:** Technical debt management, API-first product strategies, and optimizing engineering sprint velocity.
+
+---
+
+### 📊 Technical Impact & Statistics
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=abhijeetmaske" alt="abhijeetmaske" />
+    <img src="https://github-profile-trophy.vercel.app/?username=abhijeetmaske&theme=tokyonight" alt="abhijeetmaske" />
   </a>
 </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <!-- Add any social media links here -->
-</p>
-
-<!-- Languages and Tools -->
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  </a>
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
-  </a>
-  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/>
-  </a>
-</p>
-
-<!-- Support -->
-<h3 align="left">Support:</h3>
-<p>
-  <a href="https://www.buymeacoffee.com/abhijeetmaske">
-    <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy me a coffee" />
-  </a>
-</p>
-<br><br><br>
-
-<!-- GitHub stats and activity graphs -->
-<p>&nbsp;
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=abhijeetmaske&show_icons=true&locale=en&theme=tokyonight" alt="abhijeetmaske" />
-</p>
-<br><br><br><br><br><br><br><br>
 <p>
   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=abhijeetmaske&theme=tokyonight" alt="abhijeetmaske" />
 </p>
-<br><br>
+<br><br><br><br><br><br><br><br>
+
+---
+
+### 🤝 Connect With Me
+<p align="left">
+  <a href="mailto:abhijeet.maske@yahoo.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>

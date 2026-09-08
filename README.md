@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhijeet Maske</h1>
-<h3 align="center">Technical Product Owner | Architecting Scalable Product Solutions</h3>
+<h3 align="center">Product Owner | Architecting Scalable Product Solutions</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=abhijeetmaske&label=Profile%20views&color=0e75b6&style=flat-square" alt="abhijeetmaske" />
@@ -10,7 +10,7 @@
 ---
 
 ### 📑 Professional Summary
-Technical Product Owner with over 9 years of expertise in the software industry, specializing in the intersection of **product strategy and system architecture**. I excel at decomposing complex technical challenges into executable engineering roadmaps, ensuring alignment between business objectives and technical feasibility.
+Product Owner with over 9 years of expertise in the software industry, specializing in the intersection of **product strategy and system architecture**. I excel at decomposing complex technical challenges into executable engineering roadmaps, ensuring alignment between business objectives and technical feasibility.
 
 *   **Engineering Strategy:** Expert in defining technical specifications, managing architectural debt, and optimizing the SDLC for high-velocity delivery.
 *   **Technical Liaison:** Bridging the gap between stakeholders and engineering teams by translating high-level vision into detailed technical requirements and API specifications.
